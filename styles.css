@@ -1,0 +1,55 @@
+*{
+    margin: 5px;
+}
+
+.text {
+    
+    margin: 120px;
+    position: absolute;
+    display: block;
+    
+    
+}
+
+#body {
+    text-align: center;
+    
+}
+
+.banner {
+    background-image:url(images/gg.jpg);
+    height: 185px;
+    width: 2000px;
+    position: relative;
+
+}
+
+.navbar {
+    display: block;
+    padding-bottom: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    opacity: .70;
+    
+}
+
+#left {
+    float: left;
+    display: inline;
+}
+
+#right {
+    float: right;
+    display: inline;
+}
+
+#pics {
+    justify-content: center;
+    position: absolute;
+    display: inline-block;
+    left: 20vh;
+    right: 20vh;
+}
